@@ -1,0 +1,15 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="Recency <= 6.5\ngini = 0.356\nsamples = 561\nvalue = [431, 130]\nclass = Donated Blood"] ;
+1 [label="Frequency <= 4.5\ngini = 0.463\nsamples = 267\nvalue = [170, 97]\nclass = Donated Blood"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Time <= 17.0\ngini = 0.354\nsamples = 122\nvalue = [94, 28]\nclass = Donated Blood"] ;
+1 -> 2 ;
+3 [label="Frequency <= 1.5\ngini = 0.394\nsamples = 89\nvalue = [65, 24]\nclass = Donated Blood"] ;
+2 -> 3 ;
+4 [label="Recency <= 2.5\ngini = 0.278\nsamples = 48\nvalue = [40, 8]\nclass = Donated Blood"] ;
+3 -> 4 ;
+5 [label="gini = 0.236\nsamples = 22\nvalue = [19, 3]\nclass = Donated Blood"] ;
+4 -> 5 ;
+6 [label="Time <= 3.5\ngini = 0.311\nsamples = 26\nvalue = [21, 5]\nclass = Donated Blood"] ;
+4 -> 6 ;
