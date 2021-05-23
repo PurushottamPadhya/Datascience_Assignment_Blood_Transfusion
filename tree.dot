@@ -1,7 +1,7 @@
 digraph Tree {
 node [shape=box] ;
 0 [label="Recency <= 8.5\ngini = 0.342\nsamples = 561\nvalue = [438, 123]"] ;
-1 [label="Frequency <= 4.5\ngini = 0.453\nsamples = 282\nvalue = [184, 98]"] ;
+1 [label="Time <= 1125.0\ngini = 0.453\nsamples = 282\nvalue = [184, 98]"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
 2 [label="gini = 0.386\nsamples = 134\nvalue = [99, 35]"] ;
 1 -> 2 ;
