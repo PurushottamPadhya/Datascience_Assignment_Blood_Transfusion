@@ -6,7 +6,7 @@ Student id - S3815946
 	     S3825302
 
 Requires Jupiter Notebook (anaconda 3)
-Requires s3815946_s3825301.zip
+Requires 3815946_3825301.zip
 Data set required : Blood Transfusion Service Center (https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
 
 ===Description===
