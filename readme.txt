@@ -1,12 +1,12 @@
 ===Assignment 2===
 
-Student Names- Larris Fernandes
-	       Megha Mahesh Kumar Goutham
-Student id - S3815946
-	     S3825302
+Student Names- Kinjal Sharma
+	       Purushottam Padya
+Student id - S3804289
+	     S3847501
 
 Requires Jupiter Notebook (anaconda 3)
-Requires 3815946_3825301.zip
+Requires 3804289_3847501.zip
 Data set required : Blood Transfusion Service Center (https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
 
 ===Description===
